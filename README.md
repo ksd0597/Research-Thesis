@@ -1,5 +1,5 @@
 # Research-Thesis
-Documents clustering using hybrid approch
+# Documents clustering using hybrid approch
 
 
 Document clustering is one of the best automatic arrangements of document files into clusters so that records inside a bunch have high closeness in a contrast with reports in different groups. It has been concentrated seriously due to its wide materialness in different territories, for example, web mining, web indexes, and data recovery. It measures closeness among reports and gathering comparative archives. Most of the report bunching methods depend on segment grouping and progressive grouping calculation. Among all grouping methods, K-means and Agglomerative bunching procedures are generally utilized for document clustering. The primary point of this thesis work is to improve the nature of archive bunching utilizing the consolidated K-means and hierarchical technique. For the quality proportions of any grouping calculation of different clusters, an assessment matric is utilized. At last, results from the experiment shows that the proposed of a method outperforms K-means algorithm.
